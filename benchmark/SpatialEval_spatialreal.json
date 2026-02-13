@@ -1,0 +1,1757 @@
+[
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1543979.0",
+        "question": "Please answer the following question based on the image. How many individual cartons of strawberries are there in the wooden basket? Available options:\nA. eight\nB. ten\nC. four\nD. six\n",
+        "answer": "D",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1543979.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1543987.0",
+        "question": "Please answer the following question based on the image. Where is the number 45 located on the stamp? Available options:\nA. Near the right edge near the center\nB. Near the center on the bottom right quadrant\nC. In the top right corner\nD. In the bottom left corner\n",
+        "answer": "C",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1543987.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1544044.0",
+        "question": "Please answer the following question based on the image. How many different door bells are described in the image? Available options:\nA. 3\nB. 2\nC. 4\nD. 1\n",
+        "answer": "B",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1544044.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1544094.0",
+        "question": "Please answer the following question based on the image. Which vinyl record is located on the top left part of the shelf? Available options:\nA. A record with abstract art in yellow and orange\nB. A vinyl record by Oliver Sain\nC. A vinyl record by an artist called Flip Side\nD. A vinyl record by John Coltrane Quartet\n",
+        "answer": "C",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1544094.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1544098.0",
+        "question": "Please answer the following question based on the image. How many spotlights are on the side of the billboard facing us? Available options:\nA. Five\nB. Six\nC. Four\nD. Three\n",
+        "answer": "D",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1544098.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1544101.0",
+        "question": "Please answer the following question based on the image. How many letters are shown on the tall sign? Available options:\nA. Three\nB. Six\nC. Four\nD. Five\n",
+        "answer": "D",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1544101.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1544109.0",
+        "question": "Please answer the following question based on the image. How many buildings are described in the caption? Available options:\nA. Two\nB. Three\nC. One\nD. Four\n",
+        "answer": "A",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1544109.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1544121.0",
+        "question": "Please answer the following question based on the image. Where is the Victorian style building located relative to the trees and bushes? Available options:\nA. In front of the trees and bushes\nB. Behind the trees and bushes\nC. Beside the trees and bushes\nD. Above the trees and bushes\n",
+        "answer": "B",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1544121.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1544124.0",
+        "question": "Please answer the following question based on the image. What is the shape of all graves in the graveyard? Available options:\nA. Christian Cross\nB. Oval\nC. Round\nD. Square\n",
+        "answer": "A",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1544124.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1544131.0",
+        "question": "Please answer the following question based on the image. How many sailboats are there in the ocean as seen from the fort? Available options:\nA. approximately four\nB. approximately eight\nC. approximately fifteen\nD. approximately twelve\n",
+        "answer": "B",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1544131.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1544134.0",
+        "question": "Please answer the following question based on the image. Which building is located to the left in the described scene? Available options:\nA. Cube-shaped concrete and glass building\nB. Building with all glass pane walls\nC. Red brick building with many windows\nD. Cube-shaped concrete and glass building\n",
+        "answer": "C",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1544134.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1544147.0",
+        "question": "Please answer the following question based on the image. How many church steeples are present in the image? Available options:\nA. Three\nB. One\nC. Two\nD. Four\n",
+        "answer": "C",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1544147.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1544179.0",
+        "question": "Please answer the following question based on the image. How many clownfish are visibly mentioned as discernable in the middle of the image? Available options:\nA. Two\nB. Four\nC. Three\nD. One\n",
+        "answer": "A",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1544179.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1545028.0",
+        "question": "Please answer the following question based on the image. How many red safety stripes are visible on the bottom of the basket part of the machine? Available options:\nA. Four\nB. Two\nC. Five\nD. Three\n",
+        "answer": "A",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1545028.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1545062.0",
+        "question": "Please answer the following question based on the image. How many players are playing soccer on the field according to the caption? Available options:\nA. four\nB. seven\nC. five\nD. six\n",
+        "answer": "C",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1545062.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1545064.0",
+        "question": "Please answer the following question based on the image. How many boats are attached to the hooks along the walkway? Available options:\nA. none\nB. one\nC. several\nD. two\n",
+        "answer": "C",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1545064.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1545069.0",
+        "question": "Please answer the following question based on the image. What is the position of the red car in relation to the white truck? Available options:\nA. Next to the white truck\nB. In front of the white truck\nC. Across from the white truck\nD. Behind the white truck\n",
+        "answer": "B",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1545069.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1545076.0",
+        "question": "Please answer the following question based on the image. How many trees are mentioned as standing on the left side of the path? Available options:\nA. 1\nB. 2\nC. 4\nD. 3\n",
+        "answer": "B",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1545076.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1545099.0",
+        "question": "Please answer the following question based on the image. How many supports does the decorative structure have going down into the water? Available options:\nA. Ten\nB. Six\nC. Eight\nD. Four\n",
+        "answer": "B",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1545099.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1545100.0",
+        "question": "Please answer the following question based on the image. How many large signs are on the top of the building? Available options:\nA. Five\nB. Four\nC. Two\nD. Three\n",
+        "answer": "D",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1545100.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1545101.0",
+        "question": "Please answer the following question based on the image. How many chairs are there around the wooden table? Available options:\nA. two\nB. four\nC. three\nD. five\n",
+        "answer": "C",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1545101.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1545106.0",
+        "question": "Please answer the following question based on the image. How many cup holders are there in the center console? Available options:\nA. Four\nB. One\nC. Three\nD. Two\n",
+        "answer": "D",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1545106.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1545114.0",
+        "question": "Please answer the following question based on the image. What is the relative position of the blue domed smaller building in relation to the bigger church? Available options:\nA. Directly behind the bigger church\nB. Directly in front of the bigger church\nC. On the right side of the bigger church\nD. On the left side of the bigger church\n",
+        "answer": "D",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1545114.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1545139.0",
+        "question": "Please answer the following question based on the image. How many lanterns are allegedly hanging from the ceiling? Available options:\nA. Three\nB. Four\nC. One\nD. Two\n",
+        "answer": "D",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1545139.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1545165.0",
+        "question": "Please answer the following question based on the image. How many bicycles are parked on top of the roof of the cabin in the middle of the ship? Available options:\nA. two or three\nB. six or seven\nC. four or five\nD. eight or nine\n",
+        "answer": "C",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1545165.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1545177.0",
+        "question": "Please answer the following question based on the image. How many coins are not part of the stack behind the word 'BAKKT'? Available options:\nA. 5\nB. 3\nC. 2\nD. 4\n",
+        "answer": "C",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1545177.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1545201.0",
+        "question": "Please answer the following question based on the image. How many mushrooms are mentioned as growing out of the ground? Available options:\nA. Five\nB. Two\nC. Four\nD. Three\n",
+        "answer": "D",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1545201.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1545216.0",
+        "question": "Please answer the following question based on the image. Where is the man standing in relation to the sandy hill? Available options:\nA. In the middle of the hill\nB. Not on the hill\nC. Near the top of the hill\nD. At the bottom of the hill\n",
+        "answer": "C",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1545216.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1545237.0",
+        "question": "Please answer the following question based on the image. How many people in the image are observing others? Available options:\nA. Two\nB. Five\nC. Four\nD. Three\n",
+        "answer": "D",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1545237.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1545239.0",
+        "question": "Please answer the following question based on the image. What is the position of the other person in relation to the first person? Available options:\nA. To the right of the first person\nB. In front of the first person\nC. To the left of the first person\nD. Behind the first person\n",
+        "answer": "C",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1545239.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1545240.0",
+        "question": "Please answer the following question based on the image. Where is the FIFA logo located on the man's shirt? Available options:\nA. In the center of his chest\nB. On his right chest\nC. Above the shield logo\nD. On his left sleeve\n",
+        "answer": "A",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1545240.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1545258.0",
+        "question": "Please answer the following question based on the image. How many stained glass windows are located on the right side wall of the basilica? Available options:\nA. Four\nB. Five\nC. Three\nD. Six\n",
+        "answer": "B",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1545258.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1545290.0",
+        "question": "Please answer the following question based on the image. Where is the cable car door located in relation to the cable car? Available options:\nA. At the rear\nB. On the right side\nC. On the left side\nD. At the front\n",
+        "answer": "C",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1545290.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1545295.0",
+        "question": "Please answer the following question based on the image. What is the position of the man relative to the woman in the image? Available options:\nA. To the left\nB. In front\nC. Behind\nD. To the right\n",
+        "answer": "D",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1545295.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1545301.0",
+        "question": "Please answer the following question based on the image. How many people are observing the wrestling match in the close background? Available options:\nA. Three\nB. Two\nC. Four\nD. Five\n",
+        "answer": "A",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1545301.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1545338.0",
+        "question": "Please answer the following question based on the image. How many spider lilies are there in total in the image? Available options:\nA. 4\nB. 5\nC. 2\nD. 6\n",
+        "answer": "A",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1545338.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1545342.0",
+        "question": "Please answer the following question based on the image. How many large stone pillars are mentioned near the archway of the stone structure? Available options:\nA. One\nB. Four\nC. Two\nD. Three\n",
+        "answer": "C",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1545342.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1545349.0",
+        "question": "Please answer the following question based on the image. What is the location of the van relative to the building? Available options:\nA. The van is parked far from the building.\nB. The van is parked near the building.\nC. The van is parked behind the building.\nD. The van is parked inside the building.\n",
+        "answer": "B",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1545349.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1545362.0",
+        "question": "Please answer the following question based on the image. How many houses are there in the compound? Available options:\nA. Three\nB. Four\nC. One\nD. Two\n",
+        "answer": "D",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1545362.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1545394.0",
+        "question": "Please answer the following question based on the image. What is located directly left of the Missouri label in the image? Available options:\nA. green water section\nB. Last 4 of USA44\nC. First 4 of USA44\nD. left smoke from stack\n",
+        "answer": "C",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1545394.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1545436.0",
+        "question": "Please answer the following question based on the image. How many tires does the older well kept green car have? Available options:\nA. 4\nB. 2\nC. 3\nD. 6\n",
+        "answer": "A",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1545436.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1545446.0",
+        "question": "Please answer the following question based on the image. Where is the text 'République du Congo' located on the stamp? Available options:\nA. On the back\nB. Along the bottom\nC. Along the top left\nD. Along the top right\n",
+        "answer": "B",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1545446.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1545453.0",
+        "question": "Please answer the following question based on the image. How many windows does the building feature? Available options:\nA. eight\nB. four\nC. five\nD. six\n",
+        "answer": "D",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1545453.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1545460.0",
+        "question": "Please answer the following question based on the image. What is the positioning of the four metal rings logo in relation to the metal grate? Available options:\nA. The four metal rings logo is below the metal grate.\nB. The four metal rings logo is in the middle of the metal grate.\nC. The four metal rings logo is on the side of the metal grate.\nD. The four metal rings logo is above the metal grate.\n",
+        "answer": "B",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1545460.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1545472.0",
+        "question": "Please answer the following question based on the image. Where is the man with relation to the dome? Available options:\nA. Inside the dome\nB. Standing on the dome\nC. In front of the dome\nD. Behind the dome\n",
+        "answer": "B",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1545472.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1545488.0",
+        "question": "Please answer the following question based on the image. What is located to the right of the street sign? Available options:\nA. A red car\nB. A bus stop\nC. A place where cars are parked\nD. A large tree\n",
+        "answer": "C",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1545488.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1545515.0",
+        "question": "Please answer the following question based on the image. How many stone pillars are in front of the scenic background? Available options:\nA. Six\nB. Four\nC. Five\nD. Seven\n",
+        "answer": "C",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1545515.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1545526.0",
+        "question": "Please answer the following question based on the image. How many cones are mentioned as being used to line one of the race lanes? Available options:\nA. 8\nB. 4\nC. 6\nD. 2\n",
+        "answer": "D",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1545526.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1545540.0",
+        "question": "Please answer the following question based on the image. How many people are sitting and listening to the man reading the book in the dimly lit room? Available options:\nA. Four\nB. Two\nC. Three\nD. Five\n",
+        "answer": "C",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1545540.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1545543.0",
+        "question": "Please answer the following question based on the image. How many jeeps are visible in the background of the image? Available options:\nA. five\nB. four\nC. three\nD. two\n",
+        "answer": "C",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1545543.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1545558.0",
+        "question": "Please answer the following question based on the image. What is the relative position of the trash can to the decorated tree? Available options:\nA. In front of the decorated tree\nB. Behind the decorated tree\nC. Right of the decorated tree\nD. Left of the decorated tree\n",
+        "answer": "D",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1545558.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1545565.0",
+        "question": "Please answer the following question based on the image. What is the relative position of the building with respect to the people on the walkway? Available options:\nA. In front\nB. To the right\nC. To the left\nD. Behind\n",
+        "answer": "C",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1545565.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1545566.0",
+        "question": "Please answer the following question based on the image. What is directly above the red overhang mounted above a store front on the left side? Available options:\nA. A blue sky\nB. A row of Chinese lanterns\nC. A hanging sign\nD. A row of trees\n",
+        "answer": "B",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1545566.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1545571.0",
+        "question": "Please answer the following question based on the image. How many chairs are there in the seating area of the restaurant? Available options:\nA. 8\nB. 12\nC. 16\nD. 20\n",
+        "answer": "C",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1545571.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1545593.0",
+        "question": "Please answer the following question based on the image. What is located to the right of the large rock formation? Available options:\nA. A small bush\nB. A group of benches\nC. A boulder\nD. A large tree\n",
+        "answer": "D",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1545593.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1545603.0",
+        "question": "Please answer the following question based on the image. Where is the woman positioned in relation to the bushes? Available options:\nA. Between the bushes\nB. In front of the bushes\nC. To the right of the bushes\nD. To the left of the bushes\n",
+        "answer": "B",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1545603.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1545610.0",
+        "question": "Please answer the following question based on the image. What is the relative position of the leftmost tree with respect to the capital building? Available options:\nA. Left of the domed center\nB. Right of the domed center\nC. Directly in front of the capital building\nD. Behind the capital building\n",
+        "answer": "B",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1545610.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1545617.0",
+        "question": "Please answer the following question based on the image. What is located directly on top of the brown newspapers? Available options:\nA. Round sunglasses\nB. Brown wood\nC. Grey and white cat\nD. White studio background\n",
+        "answer": "A",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1545617.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1545652.0",
+        "question": "Please answer the following question based on the image. How many cords are extending outside the wooden bowl? Available options:\nA. Four\nB. One\nC. Three\nD. Two\n",
+        "answer": "D",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1545652.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1545667.0",
+        "question": "Please answer the following question based on the image. How many soda or beer can holders are stated to be on the girl's cap? Available options:\nA. 3\nB. 4\nC. 1\nD. 2\n",
+        "answer": "D",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1545667.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1545690.0",
+        "question": "Please answer the following question based on the image. How many windows are on the building in the background of the image? Available options:\nA. three\nB. six\nC. five\nD. four\n",
+        "answer": "D",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1545690.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1545717.0",
+        "question": "Please answer the following question based on the image. What is the relative position of the man to the board? Available options:\nA. The man is next to the board trying to get on it.\nB. The man is on the board\nC. The man is far from the board\nD. The man is under the board\n",
+        "answer": "A",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1545717.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1545741.0",
+        "question": "Please answer the following question based on the image. What is the location of the gas station in the image? Available options:\nA. Near the top-right corner\nB. In the middle of the scene\nC. On the left side of the scene\nD. Along the bottom edge\n",
+        "answer": "B",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1545741.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1545748.0",
+        "question": "Please answer the following question based on the image. How many tents are visible on the right side of the image? Available options:\nA. Two\nB. Four\nC. Three\nD. One\n",
+        "answer": "C",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1545748.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1545761.0",
+        "question": "Please answer the following question based on the image. How many arches are visible on the bridge? Available options:\nA. 3\nB. 6\nC. 5\nD. 4\n",
+        "answer": "C",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1545761.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1545779.0",
+        "question": "Please answer the following question based on the image. Where is the fancy silver utensil located in relation to the chocolate cake? Available options:\nA. On the lower left side\nB. Above the cake\nC. Directly under the cake\nD. On the upper right side\n",
+        "answer": "A",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1545779.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1545813.0",
+        "question": "Please answer the following question based on the image. How many flowers are there in the highlighted cluster? Available options:\nA. Three\nB. Five\nC. Six\nD. Four\n",
+        "answer": "D",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1545813.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1545851.0",
+        "question": "Please answer the following question based on the image. How many flags are on top of the big gray building? Available options:\nA. Five\nB. Four\nC. Three\nD. Two\n",
+        "answer": "C",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1545851.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1545852.0",
+        "question": "Please answer the following question based on the image. What object is located directly to the right of the center broken tower? Available options:\nA. A house with a red roof\nB. A piece of wall shaped like an L\nC. A large cloud cluster\nD. Another tree like bush\n",
+        "answer": "D",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1545852.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1545891.0",
+        "question": "Please answer the following question based on the image. How many metal dividers are there in the scooter rack? Available options:\nA. three\nB. four\nC. five\nD. six\n",
+        "answer": "C",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1545891.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1553150.0",
+        "question": "Please answer the following question based on the image. How many total glass bricks make up the window? Available options:\nA. 30\nB. 24\nC. 28\nD. 32\n",
+        "answer": "C",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1553150.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1553159.0",
+        "question": "Please answer the following question based on the image. Where are the stairs located in relation to the gold container? Available options:\nA. To the right of the container\nB. To the left of the container\nC. Behind the container and the building\nD. In front of the container\n",
+        "answer": "C",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1553159.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1553188.0",
+        "question": "Please answer the following question based on the image. How many flower pots are mentioned as being on the windowsill? Available options:\nA. Three\nB. Four\nC. Two\nD. One\n",
+        "answer": "C",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1553188.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1553191.0",
+        "question": "Please answer the following question based on the image. What is located directly to the right of the person wearing the red Nike sneakers? Available options:\nA. Yellow tag\nB. White brick\nC. Metal table legs\nD. Fur rug\n",
+        "answer": "C",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1553191.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1553245.0",
+        "question": "Please answer the following question based on the image. How many keys are identifiable to the right of the black phone? Available options:\nA. 4\nB. 5\nC. 2\nD. 3\n",
+        "answer": "A",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1553245.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1553281.0",
+        "question": "Please answer the following question based on the image. How many flowers are visible to the left of the insect? Available options:\nA. Four\nB. One\nC. Two or three\nD. Five\n",
+        "answer": "C",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1553281.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1553296.0",
+        "question": "Please answer the following question based on the image. How many water bottles are attached to the man's bike? Available options:\nA. three\nB. two\nC. one\nD. four\n",
+        "answer": "B",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1553296.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1553319.0",
+        "question": "Please answer the following question based on the image. How many windows are present on the rock building? Available options:\nA. two\nB. one\nC. three\nD. four\n",
+        "answer": "A",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1553319.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1553340.0",
+        "question": "Please answer the following question based on the image. What is located to the right of the blue van? Available options:\nA. A small garden\nB. A row of cars\nC. A row of motorbikes\nD. A bus stop\n",
+        "answer": "C",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1553340.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1553344.0",
+        "question": "Please answer the following question based on the image. How many characters are printed to the left of the letter 'O'? Available options:\nA. Two\nB. One\nC. Four\nD. Three\n",
+        "answer": "A",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1553344.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1553355.0",
+        "question": "Please answer the following question based on the image. What is located to the left of the door in the image? Available options:\nA. Black speaker\nB. Red mat\nC. Olympic sign\nD. Yellow pompom\n",
+        "answer": "A",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1553355.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1553364.0",
+        "question": "Please answer the following question based on the image. What is the relative position of the person carrying something to the man leaning on the boat? Available options:\nA. In front\nB. Behind\nC. Left side\nD. Right side\n",
+        "answer": "C",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1553364.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1553369.0",
+        "question": "Please answer the following question based on the image. What is the gnome holding in his left arm? Available options:\nA. a white fabric\nB. a platter\nC. a heart\nD. a sign\n",
+        "answer": "B",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1553369.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1553374.0",
+        "question": "Please answer the following question based on the image. What is the position of the tram relative to the building? Available options:\nA. In front of the building\nB. Left side of the building\nC. Right side of the building\nD. Behind the building\n",
+        "answer": "B",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1553374.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1553379.0",
+        "question": "Please answer the following question based on the image. How many cars can be seen parked in the background of the image? Available options:\nA. One\nB. Two\nC. Four\nD. Three\n",
+        "answer": "B",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1553379.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1553411.0",
+        "question": "Please answer the following question based on the image. What is located just in front of the entrance to the mall? Available options:\nA. A coffee shop\nB. An ice cream stand\nC. A clothing store\nD. A bookstore\n",
+        "answer": "B",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1553411.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1553415.0",
+        "question": "Please answer the following question based on the image. How many sets of doors are on the gate? Available options:\nA. Three\nB. Four\nC. Two\nD. Five\n",
+        "answer": "A",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1553415.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1553437.0",
+        "question": "Please answer the following question based on the image. How many lanes are on the road at the top of the image? Available options:\nA. Three\nB. Five\nC. Four\nD. Two\n",
+        "answer": "A",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1553437.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1553466.0",
+        "question": "Please answer the following question based on the image. How many chairlifts are mentioned in the image? Available options:\nA. 1\nB. 2\nC. 3\nD. 4\n",
+        "answer": "B",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1553466.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1553505.0",
+        "question": "Please answer the following question based on the image. How many rows of small black holes are on the bottom half of the heart monitor? Available options:\nA. Five\nB. Six\nC. Four\nD. Three\n",
+        "answer": "A",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1553505.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1553526.0",
+        "question": "Please answer the following question based on the image. How many lights are on the left wall of the stairwell? Available options:\nA. Three\nB. Six\nC. Four\nD. Five\n",
+        "answer": "C",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1553526.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1553597.0",
+        "question": "Please answer the following question based on the image. How many people are depicted in the picture? Available options:\nA. 3\nB. 2\nC. 4\nD. 1\n",
+        "answer": "B",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1553597.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1553604.0",
+        "question": "Please answer the following question based on the image. How many people are walking on the left sidewalk? Available options:\nA. four\nB. three\nC. one\nD. two\n",
+        "answer": "C",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1553604.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1553636.0",
+        "question": "Please answer the following question based on the image. How many rows of windows are there on the top level of the bus? Available options:\nA. Three\nB. Four\nC. Two\nD. One\n",
+        "answer": "D",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1553636.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1553680.0",
+        "question": "Please answer the following question based on the image. How many construction workers are on top of the skyscraper? Available options:\nA. Three\nB. Four\nC. One\nD. Two\n",
+        "answer": "D",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1553680.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1553718.0",
+        "question": "Please answer the following question based on the image. What is located directly to the right of the red circle at the top of the milk carton? Available options:\nA. Brown rectangle\nB. Blue box\nC. Ridged white cap\nD. Yellow label\n",
+        "answer": "B",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1553718.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1553753.0",
+        "question": "Please answer the following question based on the image. How many men are visible on the outside of the store in the image? Available options:\nA. One\nB. Three\nC. Two\nD. Four\n",
+        "answer": "C",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1553753.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1553763.0",
+        "question": "Please answer the following question based on the image. What structure is directly above the large clock in the image described? Available options:\nA. small art piece\nB. window pane with wooden frame\nC. green tower spire\nD. brick section\n",
+        "answer": "C",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1553763.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1553770.0",
+        "question": "Please answer the following question based on the image. How many buildings are mentioned as being alongside the canal? Available options:\nA. Two\nB. Three\nC. Four\nD. Five\n",
+        "answer": "B",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1553770.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1553773.0",
+        "question": "Please answer the following question based on the image. How many people are working on the building located in the middle of the image? Available options:\nA. 2\nB. 3\nC. 4\nD. 1\n",
+        "answer": "B",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1553773.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1553810.0",
+        "question": "Please answer the following question based on the image. How many posts connected by ropes separate the jousters? Available options:\nA. Two lines of posts\nB. A line of posts\nC. Three lines of posts\nD. Four lines of posts\n",
+        "answer": "B",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1553810.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1553824.0",
+        "question": "Please answer the following question based on the image. What is the position of the dragon logo relative to the ERDF text and circle of stars? Available options:\nA. Left\nB. Below\nC. Right\nD. Above\n",
+        "answer": "C",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1553824.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1553827.0",
+        "question": "Please answer the following question based on the image. What is positioned to the left of the Tiffany box? Available options:\nA. A meringue confection\nB. A white lace napkin\nC. A white gift box with a light blue ribbon\nD. A white demitasse with gold rim\n",
+        "answer": "D",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1553827.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1553848.0",
+        "question": "Please answer the following question based on the image. How many columns contain more than three metal pieces? Available options:\nA. Two\nB. Three\nC. Four\nD. One\n",
+        "answer": "A",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1553848.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1553860.0",
+        "question": "Please answer the following question based on the image. How many sesame seeds are on the yolk of the fried egg? Available options:\nA. Seven\nB. Five\nC. Eight\nD. Six\n",
+        "answer": "A",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1553860.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1553868.0",
+        "question": "Please answer the following question based on the image. How many buildings are attached together on the left side of the street? Available options:\nA. six\nB. five\nC. four\nD. three\n",
+        "answer": "C",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1553868.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1553879.0",
+        "question": "Please answer the following question based on the image. Where is the cannon located relative to the fence in the image? Available options:\nA. In front of the fence\nB. Beside the fence\nC. On top of the fence\nD. Behind the fence\n",
+        "answer": "A",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1553879.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1553885.0",
+        "question": "Please answer the following question based on the image. How many stories does the smallest green building have? Available options:\nA. Two\nB. Three\nC. One\nD. Four\n",
+        "answer": "A",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1553885.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1553888.0",
+        "question": "Please answer the following question based on the image. How many coins are mentioned as being on the wooden table? Available options:\nA. Two\nB. One\nC. Four\nD. Three\n",
+        "answer": "A",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1553888.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1553926.0",
+        "question": "Please answer the following question based on the image. How many vehicles are parked in the close parking lot? Available options:\nA. Twenty\nB. Twenty-five\nC. Fifteen\nD. Eighteen\n",
+        "answer": "A",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1553926.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1553943.0",
+        "question": "Please answer the following question based on the image. Which type of tree configuration can be seen in the image? Available options:\nA. A group of trees so closely grouped that they appear as one big bush\nB. A single tree with no leaves\nC. A circle of trees surrounding a fountain\nD. A row of evenly spaced trees\n",
+        "answer": "A",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1553943.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1553944.0",
+        "question": "Please answer the following question based on the image. Where is the green truck located in relation to the windowless car? Available options:\nA. Behind the windowless car\nB. To the left of the windowless car\nC. In front of the windowless car\nD. To the right of the windowless car\n",
+        "answer": "A",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1553944.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1553954.0",
+        "question": "Please answer the following question based on the image. Where is the giant bag of sugar located in relation to the woman? Available options:\nA. Behind the woman\nB. On the left of the woman\nC. In front of the woman\nD. On the right of the woman\n",
+        "answer": "B",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1553954.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1553958.0",
+        "question": "Please answer the following question based on the image. What is the location of the blue bucket mentioned in the caption? Available options:\nA. Next to a hole on the right side of the beach\nB. On the left side near the women\nC. At the center of the beach\nD. Under the beach chair\n",
+        "answer": "A",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1553958.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1553974.0",
+        "question": "Please answer the following question based on the image. How many windows are there on the right wall of the room? Available options:\nA. Two\nB. Three\nC. One\nD. Four\n",
+        "answer": "A",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1553974.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1553982.0",
+        "question": "Please answer the following question based on the image. Where is the white perforated board located in the picture? Available options:\nA. In the bottom right of the picture\nB. In the top right of the picture\nC. On the left side of the picture\nD. In the bottom left of the picture\n",
+        "answer": "A",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1553982.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1553983.0",
+        "question": "Please answer the following question based on the image. How many trees without leaves can be seen in the front of the image? Available options:\nA. Two\nB. Three\nC. Five\nD. Four\n",
+        "answer": "B",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1553983.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1553991.0",
+        "question": "Please answer the following question based on the image. How many soccer players are shown in the image? Available options:\nA. Three\nB. One\nC. Two\nD. Four\n",
+        "answer": "C",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1553991.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1554004.0",
+        "question": "Please answer the following question based on the image. How many white cables are mentioned as hanging from the ceiling? Available options:\nA. Four\nB. Three\nC. Two\nD. One\n",
+        "answer": "C",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1554004.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1554031.0",
+        "question": "Please answer the following question based on the image. How many arch shaped handicrafts are hung on the right wooden board? Available options:\nA. Eight\nB. Six\nC. Seven\nD. Five\n",
+        "answer": "C",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1554031.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1554045.0",
+        "question": "Please answer the following question based on the image. How many poles support the volleyball net? Available options:\nA. Three\nB. One\nC. Two\nD. Four\n",
+        "answer": "C",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1554045.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1554051.0",
+        "question": "Please answer the following question based on the image. How many women are directly involved in the eyelash application process? Available options:\nA. Four\nB. One\nC. Two\nD. Three\n",
+        "answer": "C",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1554051.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1554068.0",
+        "question": "Please answer the following question based on the image. What is located directly behind the blue blast fences? Available options:\nA. A green lawn\nB. A row of airport vehicles\nC. A runway\nD. A three story grey building\n",
+        "answer": "D",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1554068.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1554074.0",
+        "question": "Please answer the following question based on the image. How many yachts are mentioned as being equipped with masts? Available options:\nA. 5\nB. 3\nC. 4\nD. 6\n",
+        "answer": "C",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1554074.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1554081.0",
+        "question": "Please answer the following question based on the image. What is placed directly under the picture of Pope Francis on the stamp? Available options:\nA. A black fabric background\nB. A small bright blue crest\nC. A long thin rectangle with the Pope's name\nD. A flag\n",
+        "answer": "C",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1554081.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1554084.0",
+        "question": "Please answer the following question based on the image. How many lines of text are on the right side of the plaque? Available options:\nA. Ten lines\nB. Nine lines\nC. Eleven lines\nD. Twelve lines\n",
+        "answer": "C",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1554084.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1554085.0",
+        "question": "Please answer the following question based on the image. How many columns are visible behind the reclining Buddha statue? Available options:\nA. Two\nB. Three\nC. One\nD. Four\n",
+        "answer": "A",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1554085.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1554089.0",
+        "question": "Please answer the following question based on the image. How many legs does the drone have? Available options:\nA. Four\nB. Two\nC. Three\nD. Five\n",
+        "answer": "A",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1554089.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1554095.0",
+        "question": "Please answer the following question based on the image. How many men are described as wearing masks in the photo? Available options:\nA. Three\nB. Four\nC. One\nD. Two\n",
+        "answer": "D",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1554095.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1554134.0",
+        "question": "Please answer the following question based on the image. How many soldiers are described as wearing camo uniforms and located in front of the larger group of soldiers in green uniforms? Available options:\nA. four\nB. five\nC. three\nD. two\n",
+        "answer": "C",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1554134.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1554144.0",
+        "question": "Please answer the following question based on the image. Where is the statue located in the image? Available options:\nA. Near the edge of the land\nB. At the top of the wall\nC. Under the wooden bridge\nD. In the center of the land\n",
+        "answer": "A",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1554144.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1554172.0",
+        "question": "Please answer the following question based on the image. What is the position of the man in the image relative to the surrounding rice plants? Available options:\nA. On the far left\nB. At the top edge\nC. In the middle\nD. On the far right\n",
+        "answer": "C",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1554172.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1554191.0",
+        "question": "Please answer the following question based on the image. Where is the air control tower located in the image? Available options:\nA. Below the middle of the image\nB. At the top of the image\nC. On the far right of the image\nD. Near the middle of the image\n",
+        "answer": "D",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1554191.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1554193.0",
+        "question": "Please answer the following question based on the image. What is the position of the large bush in relation to the boat on the river? Available options:\nA. To the right on the bank of the river\nB. To the left on the bank of the river\nC. Directly in front of the boat\nD. Directly behind the boat\n",
+        "answer": "A",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1554193.0.png"
+        ]
+    },
+    {
+        "dataset": "SpatialEval",
+        "task": "spatialreal",
+        "split": "test",
+        "question_id": "spatialreal.vqa.sa_1554210.0",
+        "question": "Please answer the following question based on the image. How many cranes are involved in lifting the orange truck bed? Available options:\nA. Four\nB. Two\nC. One\nD. Three\n",
+        "answer": "B",
+        "data_type": "image",
+        "problem_type": "multiple choice",
+        "images": [
+            "SpatialEval/spatialreal.vqa.sa_1554210.0.png"
+        ]
+    }
+]

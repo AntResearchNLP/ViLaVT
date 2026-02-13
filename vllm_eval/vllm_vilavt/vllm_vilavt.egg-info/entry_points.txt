@@ -1,0 +1,2 @@
+[vllm.general_plugins]
+register_vilavt_model = vllm_vilavt:register

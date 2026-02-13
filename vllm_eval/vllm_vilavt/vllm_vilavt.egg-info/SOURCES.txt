@@ -1,0 +1,16 @@
+setup.py
+vllm_vilavt/__init__.py
+vllm_vilavt/configuration_vilavt.py
+vllm_vilavt/interfaces.py
+vllm_vilavt/interfaces_base.py
+vllm_vilavt/qwen2_5_vl.py
+vllm_vilavt/qwen2_5_vl_vilavt.py
+vllm_vilavt/qwen2_5_vl_vilavt_v0.8.5.py
+vllm_vilavt/qwen2_vl.py
+vllm_vilavt/utils.py
+vllm_vilavt/vision.py
+vllm_vilavt.egg-info/PKG-INFO
+vllm_vilavt.egg-info/SOURCES.txt
+vllm_vilavt.egg-info/dependency_links.txt
+vllm_vilavt.egg-info/entry_points.txt
+vllm_vilavt.egg-info/top_level.txt
