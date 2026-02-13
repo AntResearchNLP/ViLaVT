@@ -135,7 +135,7 @@ bash rl/scripts/train_grpo.sh
 ### 3. Inference & Evaluation
 
 You can download the pretrained models:
-- [ViLaVT](https://huggingface.co/AntResearchNLP/ViLaVT)
+- [ViLaVT (stay tuned)](https://huggingface.co/AntResearchNLP/ViLaVT)
 - [ViLaVT-cold-start](https://huggingface.co/AntResearchNLP/ViLaVT-cold-start)
 
 We provide multiple evaluation pipelines
@@ -218,13 +218,5 @@ If you find our work helpful, please cite our paper:
     booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems},
     year={2025},
     url={https://openreview.net/forum?id=yyWeSAsOhs}
-}
-
-
-@article{cheng2025vilamp,
-    title={Scaling Video-Language Models to 10K Frames via Hierarchical Differential Distillation},
-    author={Cheng, Chuanqi and Guan, Jian and Wu, Wei and Yan, Rui},
-    journal={arXiv preprint arXiv:2504.02438},
-    year={2025}
 }
 ```
