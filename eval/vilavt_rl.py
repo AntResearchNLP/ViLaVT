@@ -32,6 +32,7 @@ AutoModelForVision2Seq.register(VilavtConfig, Qwen2_5_VLForConditionalGeneration
 # from .prompt import ViLaVTPromptMixin
 from utils import (
     REASONING_SYS_PROMPT,
+    IMAGE_INDEX_PROMPT_V1,
     IMAGE_INDEX_PROMPT_V2,
     RESPONSE_PROMPT,
     RESPONSE_PROMPT_FINAL,
@@ -40,7 +41,8 @@ from utils import (
     generate_prompt_qa,
     generate_prompt_simple_qa,
     parse_output,
-    zoomin
+    zoomin,
+    fetch_image
 )
 
 
@@ -137,13 +139,69 @@ class ViLaVT:
             user_image_path_list.append(rou["value"])
         return user_image_path_list
 
-    def _prepare_content(
-        self, inputs: list[dict[str, str]], dataset: str | None = None
+
+    def _prepare_content_multi_image(
+        self, inputs: list[dict[str, str]], dataset: str | None = None, user_image_path_list = None
     ) -> list[dict[str, str]]:
         """
         inputs list[dict[str, str]], each dict has keys: ['type', 'value']
         """
-        user_image_path_list = self._extract_image_path(inputs)
+        num_images=0
+        single_image_max_pixels = None
+        for s in inputs:
+            if s["type"] == "image":
+                num_images = num_images + 1
+        single_image_max_pixels = self.max_pixels / num_images
+        content = []
+        image_idx = 0
+        for s in inputs:
+            if s["type"] == "image":
+                item = {"type": "image", "image": ensure_image_url(s["value"])}
+                if self.min_pixels is not None:
+                    item["min_pixels"] = self.min_pixels
+                if single_image_max_pixels is not None:
+                    item["max_pixels"] = single_image_max_pixels
+                img = fetch_image(item)
+                (width, height) = img.size if img is not None else (None, None)
+            elif s["type"] == "text":
+                item = {"type": "text",
+                        "text": s['value'], 
+                }
+            else:
+                raise ValueError(f"Invalid message type: {s['type']}, {s}")
+            content.append(item)
+
+            if s["type"] == 'image':
+                index_prompt = IMAGE_INDEX_PROMPT_V1.format(current_image_idx=image_idx, width=width, height=height)
+                item = {"type": "text", "text": index_prompt}
+                content.append(item)
+                image_idx = image_idx + 1
+        content.append({"type": "text",
+                        "text": """# If you need to zoom in for more details or examine specific regions, make tool call following the format:
+    <think> Your reasoning about where to look and why </think>
+    <tool> {{"region": [{{"index": int, "bbox_2d": [x1, y1, x2, y2]}}, ...], "query": str}} </tool>
+
+    # If you have enough information to answer the original question:
+    <think> Your reasoning here. </think>
+    <answer> Your final answer here. </answer>
+
+    - Note that x1, y1, x2, y2 are the coordinates of the bounding box in the specfied image by the index.
+    - You must strictly follow the above output format.
+    - In `<answer>`, provide **only** the final answer in the simplest required form:
+    - For multiple-choice questions: output only the letter (e.g., `A`, `B`, `C`).
+    - For yes/no questions: output only `Yes` or `No`.
+    - For numerical answers: output only the number (e.g., `42`, `3.14`).
+    - Do not include explanations, units, punctuation, or extra words."""})
+
+        return content
+
+    def _prepare_content_single(
+        self, inputs: list[dict[str, str]], dataset: str | None = None, user_image_path_list = None
+    ) -> list[dict[str, str]]:
+        """
+        inputs list[dict[str, str]], each dict has keys: ['type', 'value']
+        """
+        single_image_max_pixels = self.max_pixels / len(user_image_path_list)
 
         content = []
         image_idx = 0
@@ -156,12 +214,14 @@ class ViLaVT:
                         f"OCRBench dataset uses custom min_pixels={item['min_pixels']}"
                     )
                     if self.max_pixels is not None:
-                        item["max_pixels"] = self.max_pixels
+                        # item["max_pixels"] = self.max_pixels
+                        item["max_pixels"] = single_image_max_pixels
                 else:
                     if self.min_pixels is not None:
                         item["min_pixels"] = self.min_pixels
                     if self.max_pixels is not None:
-                        item["max_pixels"] = self.max_pixels
+                        # item["max_pixels"] = self.max_pixels
+                        item["max_pixels"] = single_image_max_pixels
             elif s["type"] == "video":
                 item = {
                     "type": "video",
@@ -189,7 +249,8 @@ class ViLaVT:
                 "text": generate_prompt_qa(
                             s['value'], 
                             user_image_path_list,
-                            max_pixels=self.max_pixels,
+                            # max_pixels=self.max_pixels,
+                            max_pixels=single_image_max_pixels,
                             min_pixels=self.min_pixels)}
             else:
                 raise ValueError(f"Invalid message type: {s['type']}, {s}")
@@ -202,6 +263,16 @@ class ViLaVT:
                 image_idx = image_idx + 1
 
         return content
+
+    def _prepare_content(
+        self, inputs: list[dict[str, str]], dataset: str | None = None, user_image_path_list = None
+    ) -> list[dict[str, str]]:
+        user_image_path_list = self._extract_image_path(inputs)
+        if len(user_image_path_list) > 1:
+            return self._prepare_content_multi_image(inputs, dataset, user_image_path_list)
+        else:
+            return self._prepare_content_single(inputs, dataset, user_image_path_list)
+
 
     def _prepare_content_simple(
         self, inputs: list[dict[str, str]], dataset: str | None = None
@@ -485,7 +556,6 @@ class ViLaVT:
                     })
                     content_feedback.append({"type": "text", "text": RESPONSE_PROMPT_FINAL + "</tool_response>"})
                 else:
-
                     # append to conversations
                     images.extend(zoomin_image_list)
                     region_position_list.extend(zoomin_region_position)
@@ -526,7 +596,6 @@ class ViLaVT:
                         f"\033[32m\n--- End of processing (max iterations: {self.max_iterations},"
                         f"actual: {self.max_iterations - iterations + 1}) ---\033[0m"
                     )
-
                 break
             else:
                 if self.verbose:
