@@ -4,9 +4,10 @@
 <h1 style="font-size: 35px;">ViLaVT: Chatting with Images for Introspective Visual Thinking</h1>
 
   
+
 [![arXiv](https://img.shields.io/badge/arXiv-2602.11073-red)](https://arxiv.org/abs/2602.11073v2)
-[![Data](https://img.shields.io/badge/ViLaVT%20Data-🤗%20Hugging%20Face-yellow)](https://huggingface.co/datasets/AntResearchNLP/ViLaVT-Data-HF)
-[![Model](https://img.shields.io/badge/ViLaVT%20Model-🤗%20Stay%20Tuned-yellow)](https://github.com/AntResearchNLP/ViLaVT/)
+[![🤗 HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-ViLaVT%20Data-yellow)](https://huggingface.co/datasets/AntResearchNLP/ViLaVT-Data-HF)
+[![🤗 HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-ViLaVT%20Model-yellow)](https://huggingface.co/AntResearchNLP/ViLaVT)
 </div>
 
 ## 📋 Introduction
@@ -200,7 +201,7 @@ We sincerely appreciate the valuable contributions from the open-source communit
 
 
 # 📖 Citation
-If you find our work helpful, please cite our paper:
+If you find our work helpful, please consider citing our papers:
 
 ```bibtex
 @misc{wu2026chattingimagesintrospectivevisual,
@@ -212,6 +213,7 @@ If you find our work helpful, please cite our paper:
       primaryClass={cs.CV},
       url={https://arxiv.org/abs/2602.11073}, 
 }
+
 @inproceedings{wu2025reinforcing,
     title={Reinforcing Spatial Reasoning in Vision-Language Models with Interwoven Thinking and Visual Drawing},
     author={Junfei Wu and Jian Guan and Kaituo Feng and Qiang Liu and Shu Wu and Liang Wang and Wei Wu and Tieniu Tan},
@@ -219,12 +221,6 @@ If you find our work helpful, please cite our paper:
     year={2025},
     url={https://openreview.net/forum?id=yyWeSAsOhs}
 }
-
-
-@article{cheng2025vilamp,
-    title={Scaling Video-Language Models to 10K Frames via Hierarchical Differential Distillation},
-    author={Cheng, Chuanqi and Guan, Jian and Wu, Wei and Yan, Rui},
-    journal={arXiv preprint arXiv:2504.02438},
-    year={2025}
-}
 ```
+
+This work builds upon our prior research on spatial reasoning in vision-language models. Code for the earlier work is available at [ViLaSR](https://github.com/AntResearchNLP/ViLaSR).
