@@ -136,7 +136,7 @@ bash rl/scripts/train_grpo.sh
 ### 3. Inference & Evaluation
 
 You can download the pretrained models:
-- [ViLaVT](https://huggingface.co/AntResearchNLP/ViLaVT)
+- [ViLaVT (stay tuned)](https://huggingface.co/AntResearchNLP/ViLaVT)
 - [ViLaVT-cold-start](https://huggingface.co/AntResearchNLP/ViLaVT-cold-start)
 
 We provide multiple evaluation pipelines
@@ -221,6 +221,5 @@ If you find our work helpful, please consider citing our papers:
     year={2025},
     url={https://openreview.net/forum?id=yyWeSAsOhs}
 }
-```
 
-This work builds upon our prior research on spatial reasoning in vision-language models. Code for the earlier work is available at [ViLaSR](https://github.com/AntResearchNLP/ViLaSR).
+```
